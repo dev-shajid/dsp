@@ -22,8 +22,8 @@
 The horizontal axis of the frequency domain can be represented in four different ways:
 1. **Index k:** The index k varies from 0 to N/2 samples.
 2. **Frequency f:** f = k/N.
-3. **Frequency in radians, ω:** ω = k/N * π.
-4. **Analog frequency, F:** F = f * Fs = k/N * Fs, where **Fs** is the sampling frequency.
+3. **Frequency in radians,** $\omega = \frac{k}{N} * π$.
+4. **Analog frequency, F:** $F = f * Fs = \frac{k}{N} * Fs$, where **Fs** is the sampling frequency.
 
 ### **Real and Imaginary Parts:**
 - The output of the DFT is represented by **two parts**: a **real part** and an **imaginary part**.
@@ -42,8 +42,8 @@ The horizontal axis of the frequency domain can be represented in four different
 - The parameter **k** determines the **frequency** of the sine and cosine waves.
   
 ### **Amplitude:**
-- The amplitudes of these sine and cosine waves are stored in the **real part** (Re X[k]) for the cosine waves and the **imaginary part** (Im X[k]) for the sine waves. 
-- For example, **Im X** refers to the amplitude of the sine wave that completes three cycles between points 0 and 63 in the time domain.
+- The amplitudes of these sine and cosine waves are stored in the **real part** (Re X[k]) for the cosine waves and the **imaginary part** ($I_m X[k]$) for the sine waves. 
+- For example, **$I_m X$** refers to the amplitude of the sine wave that completes three cycles between points 0 and 63 in the time domain.
 
 ---
 

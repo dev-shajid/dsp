@@ -72,7 +72,7 @@
     where $ n $ is the sample number, $ A $ is the amplitude, $ \omega $ is the frequency in radians per sample, and $ \theta $ is the phase in radians.
   - A discrete-time sinusoid is periodic only if its frequency $ f $ is a rational number.
   - Discrete-time sinusoids whose frequencies are separated by an integer multiple of $ 2\pi $ are identical.
-  - The highest rate of oscillation is attained when $ \omega = \pi $ or equivalently, $ f = \frac{1}{2} $.
+  - The highest rate of oscillation is attained when $ \omega = \pi $ or equivalently, $f = \frac{1}{2}$.
 
 #### **Aliasing**
 - The sinusoids having the frequency $|\omega| > \pi$ are the alias of the corresponding sinusoids with frequestion $|\omega|<\pi$
