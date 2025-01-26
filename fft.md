@@ -67,8 +67,6 @@ By using techniques like **interlaced decomposition**, **bit reversal sorting**,
 
 ---
 
-This version should provide a clear and beginner-friendly explanation of the FFT, breaking it down into easily digestible parts. Let me know if you'd like further clarifications or examples!
----
 
 ## **Key Comparisons: FFT vs. DFT**  
 | **Aspect**            | **DFT**                                   | **FFT**                             |  
